@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Roger!
 
-🎯 Estudante e entusiasta de **Cibersegurança / Blue Team**, com foco em laboratórios práticos e aprendizado contínuo.
+🎯 Estudante e entusiasta de **Cibersegurança / Blue Team**, com foco em laboratórios práticos e CTF's.
 
 Atualmente estou desenvolvendo projetos voltados para:
 - Monitoramento de eventos de segurança
