@@ -1,30 +1,48 @@
-## 👋 Olá, eu sou o Roger!
+# Roger Zeferino
 
-🎯 Estudante e entusiasta de **Cibersegurança / Blue Team**, com foco em laboratórios práticos e CTF's.
+Segurança da Informação | Infrastructure Analyst @ Nortox S/A | Founder @ [PRAESIS](https://praesis.com.br)
 
-Atualmente estou desenvolvendo projetos voltados para:
-- Monitoramento de eventos de segurança
-- Active Directory
-- Wazuh (SIEM / XDR)
-- Visualização de dados com Grafana
-- Ambientes virtualizados (Proxmox + pfSense)
+Profissional de cibersegurança focado em operações de segurança e arquitetura de SOC. Atualmente construindo a PRAESIS, empresa de serviços gerenciados de segurança com soluções de SOC on-premise para empresas de médio e grande porte do setor industrial e moveleiro.
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+## O que eu faço
 
-- 🖥️ Windows Server (Active Directory, GPO, Auditoria)
-- 🔐 Wazuh (SIEM / XDR)
-- 📊 Grafana
-- 🐧 Linux (Ubuntu)
-- 🌐 pfSense
-- 🧱 Proxmox
-- 🧰 Docker (em aprendizado)
+- **Operações de SOC**: SIEM (Wazuh, StellarCyber), EDR/XDR (SentinelOne, Kaspersky, WithSecure), gestão de vulnerabilidades (OpenVAS)
+- **Infraestrutura**: FortiGate, Active Directory, WSUS, Windows Server, Linux, virtualização VMware/Proxmox
+- **Automação**: pipelines de SOC (OpenVAS → Shuffle → DFIR IRIS), scripts em PowerShell/Shell, integrações de alertas
 
----
+## Stack
 
-## 🚀 Objetivo
+**SIEM / Detecção**
+`Wazuh` `StellarCyber` `Grafana`
 
-Construir um portfólio sólido em **Segurança da Informação**, com foco em ambientes reais, documentação clara e aprendizado prático.
+**EDR / XDR**
+`SentinelOne` `Singularity` `Kaspersky` `WithSecure`
 
-📌 Todos os projetos aqui são parte do meu processo de estudo e evolução.
+**Gestão de Vulnerabilidades**
+`OpenVAS` `Greenbone`
+
+**SOAR / Automação**
+`Shuffle` `DFIR IRIS` `Python` `PowerShell` `Shell Script`
+
+**Rede / Infra**
+`FortiGate` `Active Directory` `WSUS` `Linux` `Windows Server` `VMware` `Proxmox`
+
+## PRAESIS
+
+Fundador da [PRAESIS](https://praesis.com.br) — serviços gerenciados de SOC para o setor industrial e moveleiro de Arapongas/Paraná.
+
+SOC on-premise construído inteiramente em stack open-source:
+
+`Wazuh` `Shuffle` `DFIR IRIS` `OpenVAS` `Grafana`
+
+Histórico completo de certificações disponível no [LinkedIn](https://linkedin.com/in/rogercyber).
+
+## Projetos em Destaque
+
+- [openvas-alert-automation](https://github.com/rogerzeferino/openvas-alert-automation) — Pipeline customizado de alertas do OpenVAS com integração via Telegram e e-mail
+
+## Contato
+
+[LinkedIn](https://linkedin.com/in/rogercyber) · [PRAESIS](https://praesis.com.br) · roger@praesis.com.br
